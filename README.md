@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haytame El Harhari</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 👨‍💻 All of my projects are available at [miportfolio.com](http://miportfolio.com)
+- 👨‍💻 All of my projects are available at [miportfolio.com]([http://miportfolio.com](https://haytameel.github.io/miportfolio/))
 
 - 💬 Ask me about **HTML, CSS, Python and Java**
 
